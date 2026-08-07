@@ -14,7 +14,7 @@ These projects demonstrate my ability to design, develop, and implement Java app
 - Gain experience with Socket Programming and Multithreading.
 - Develop problem-solving and debugging skills.
   
-# 🛠 Technologies Used
+#  Technologies Used
 - Java
 - MySQL
 - JDBC
@@ -47,30 +47,28 @@ These projects demonstrate my ability to design, develop, and implement Java app
 
 #  Repository Structure
 
-Java-Internship-Projects
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── Level-1-Basic
-│   │
-│   ├── CalculatorApplication
-│   ├── NumberGuessingGame
-│   └── FactorialCalculator
-│
-├── Level-2-Intermediate
-│   │
-│   ├── EmployeeManagementSystem
-│   ├── FileHandlingProject
-│   └── BankingApplication
-│
-└── Level-3-Advanced
-    │
-    ├── LibraryManagementSystem
-    ├── ChatApplication
-    └── BinarySearchTree
-    
+Java Internship Projects
+This repository contains Java projects completed during my Java Development Internship.
+Projects:
+
+Level 1 - Basic
+---------------
+ Calculator Application
+ Number Guessing Game
+ Factorial Calculator
+ 
+Level 2 - Intermediate
+----------------------
+ Employee Management System
+ File Handling Project
+ Banking Application
+
+Level 3 - Advanced
+------------------
+ Library Management System
+ Chat Application
+ Binary Search Tree
+
 #  Project Summary
 
 <h2>📋 Project Summary</h2>
@@ -127,10 +125,8 @@ Java-Internship-Projects
     <td>Implements BST insertion, search, deletion, and tree traversals.</td>
   </tr>
 </table>
----
 
-# ✨ Key Features
-
+# Key Features
 - Console-Based Java Applications
 - Menu-Driven Programs
 - CRUD Operations
@@ -144,27 +140,19 @@ Java-Internship-Projects
 - Clean and Modular Code
 - Well-Documented Projects
 
----
-
-# ▶️ Getting Started
-
+# Getting Started
 ## Prerequisites
-
 Before running the projects, ensure you have:
-
 - Java JDK 17 or above
 - Eclipse IDE (or any Java IDE)
 - MySQL Server (for the Library Management System)
 - Git (optional)
 
----
-
 ## Installation
-
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Java-Internship-Projects.git
+git clone https://github.com/Suchithra609/Java-Internship-Projects.git
 ```
 
 2. Open Eclipse.
@@ -173,25 +161,54 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/Java-Internship-Projects.git
 
 4. Run the project's `Main.java` file.
 
----
+#  Running Individual Projects
 
-# 💻 Running Individual Projects
+<h2>▶️ Main File for Each Project</h2>
 
-| Project | Main File |
-|----------|-----------|
-| Calculator Application | Calculator.java |
-| Number Guessing Game | NumberGuessingGame.java |
-| Factorial Calculator | FactorialCalculator.java |
-| Employee Management System | Main.java |
-| File Handling Project | FileProcessor.java |
-| Banking Application | Main.java |
-| Library Management System | Main.java |
-| Chat Application | Server.java & Client.java |
-| Binary Search Tree | Main.java |
+<table border="1" cellspacing="0" cellpadding="8">
+    <tr>
+        <th>Project</th>
+        <th>Main File</th>
+    </tr>
+    <tr>
+        <td>Calculator Application</td>
+        <td><code>Calculator.java</code></td>
+    </tr>
+    <tr>
+        <td>Number Guessing Game</td>
+        <td><code>NumberGuessingGame.java</code></td>
+    </tr>
+    <tr>
+        <td>Factorial Calculator</td>
+        <td><code>FactorialCalculator.java</code></td>
+    </tr>
+    <tr>
+        <td>Employee Management System</td>
+        <td><code>Main.java</code></td>
+    </tr>
+    <tr>
+        <td>File Handling Project</td>
+        <td><code>FileProcessor.java</code></td>
+    </tr>
+    <tr>
+        <td>Banking Application</td>
+        <td><code>Main.java</code></td>
+    </tr>
+    <tr>
+        <td>Library Management System</td>
+        <td><code>Main.java</code></td>
+    </tr>
+    <tr>
+        <td>Multithreaded Chat Application</td>
+        <td><code>Server.java</code> &amp; <code>Client.java</code></td>
+    </tr>
+    <tr>
+        <td>Binary Search Tree (BST)</td>
+        <td><code>Main.java</code></td>
+    </tr>
+</table>
 
----
-
-# 📸 Sample Outputs
+# Sample Outputs
 
 Each project contains a detailed **README.md** with:
 
@@ -202,10 +219,7 @@ Each project contains a detailed **README.md** with:
 - How to Run
 - Sample Console Output
 
----
-
-# 📈 Skills Demonstrated
-
+# Skills Demonstrated
 - Java Programming
 - Object-Oriented Programming
 - Problem Solving
@@ -221,9 +235,7 @@ Each project contains a detailed **README.md** with:
 - Multithreading
 - Git & GitHub
 
----
-
-# 🚀 Future Improvements
+# Future Improvements
 
 - Develop GUI versions using Java Swing or JavaFX.
 - Add authentication to the Library Management System.
@@ -232,22 +244,13 @@ Each project contains a detailed **README.md** with:
 - Enhance the Chat Application with private messaging.
 - Build REST APIs using Spring Boot.
 
----
-
-# 🤝 Acknowledgements
-
+# Acknowledgements
 These projects were completed as part of the **Java Development Internship** offered by **Codveda Technologies**. They helped strengthen my practical knowledge of Java programming and software development concepts.
 
----
-
-# 👩‍💻 Author
-
+# Author
 **Gopavaram Suchithra**
-
 **Java Developer | Computer Science Student**
-
 ### Skills
-
 - Java
 - SQL
 - HTML
@@ -255,13 +258,8 @@ These projects were completed as part of the **Java Development Internship** off
 - JDBC
 - MySQL
 - Git & GitHub
-
----
-
-# 📜 License
-
+# License
 This project is licensed under the **MIT License**.
 
----
 
 ## ⭐ If you found this repository useful, please consider giving it a Star!
