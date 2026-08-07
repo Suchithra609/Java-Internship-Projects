@@ -53,25 +53,25 @@ Projects:
 
 Level 1 - Basic
 ---------------
- Calculator Application
- Number Guessing Game
- Factorial Calculator
+ Calculator Application,,
+ Number Guessing Game,,
+ Factorial Calculator,,
  
 Level 2 - Intermediate
 ----------------------
- Employee Management System
- File Handling Project
- Banking Application
+ Employee Management System,,
+ File Handling Project,,
+ Banking Application,,
 
 Level 3 - Advanced
 ------------------
- Library Management System
- Chat Application
- Binary Search Tree
+ Library Management System,,
+ Chat Application,,
+ Binary Search Tree,,
 
 #  Project Summary
 
-<h2>📋 Project Summary</h2>
+<h2> Project Summary</h2>
 
 <table border="1" cellspacing="0" cellpadding="8">
   <tr>
@@ -163,7 +163,7 @@ git clone https://github.com/Suchithra609/Java-Internship-Projects.git
 
 #  Running Individual Projects
 
-<h2>▶️ Main File for Each Project</h2>
+<h2> Main File for Each Project</h2>
 
 <table border="1" cellspacing="0" cellpadding="8">
     <tr>
@@ -262,4 +262,4 @@ These projects were completed as part of the **Java Development Internship** off
 This project is licensed under the **MIT License**.
 
 
-## ⭐ If you found this repository useful, please consider giving it a Star!
+##  If you found this repository useful, please consider giving it a Star!
